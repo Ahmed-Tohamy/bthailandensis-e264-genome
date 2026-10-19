@@ -1,0 +1,9 @@
+mod_code	motif	sites	motif_positions	recall_pct	pct_of_calls	expected_pct	enrichment
+a	CACAG	4341	4343	100.0	2.22	0.200	11.1
+a	GTWWAC	1246	1260	98.9	0.64	0.058	11.0
+a	GAGHNNNCTC	1575	1576	99.9	0.81	0.072	11.1
+a	GTGMCGG	0	5582	0.0	0.00	0.256	0.0
+m	CACAG	0	4343	0.0	0.00	0.096	0.0
+m	GTWWAC	0	1260	0.0	0.00	0.028	0.0
+m	GAGHNNNCTC	0	1576	0.0	0.00	0.035	0.0
+m	GTGMCGG	1695	5582	30.4	0.27	0.123	2.2

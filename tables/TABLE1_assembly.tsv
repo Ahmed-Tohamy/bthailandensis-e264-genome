@@ -1,0 +1,10 @@
+Property	Chromosome 1	Chromosome 2	Whole genome
+Length in base pairs	3,808,007	2,914,788	6,722,795
+GC content in percent	67.28	68.08	67.63
+Protein-coding genes on the forward strand	1689	1189	2878
+Protein-coding genes on the reverse strand	1593	1176	2769
+Ribosomal RNA genes	9	3	12
+Transfer RNA genes	55	7	62
+Complete ribosomal RNA operons	3	1	4
+Topology	circular, closed	circular, closed	two replicons
+Ambiguous bases	0	0	0

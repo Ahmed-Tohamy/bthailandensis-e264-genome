@@ -1,0 +1,162 @@
+locus	contig	start	end	strand	product
+FAADHO_04079	chromosome 1	1905117	1905965	-	IS3 family transposase ORF B
+FAADHO_04080	chromosome 1	1905962	1906327	-	IS3 family ISButh2 transposase ORF A
+FAADHO_04081	chromosome 1	1906380	1906913	-	ISBma1, transposase
+FAADHO_04082	chromosome 1	1907224	1909434	+	Lipoprotein
+FAADHO_04083	chromosome 1	1909569	1909973	-	MerR family transcriptional regulator
+FAADHO_04084	chromosome 1	1910032	1910436	-	integration host factor subunit alpha
+FAADHO_04085	chromosome 1	1910509	1912941	-	phenylalanine--tRNA ligase subunit beta
+FAADHO_04086	chromosome 1	1913029	1914042	-	phenylalanine--tRNA ligase subunit alpha
+FAADHO_04087	chromosome 1	1914191	1914550	-	50S ribosomal protein L20
+FAADHO_04088	chromosome 1	1914581	1914778	-	50S ribosomal protein L35
+FAADHO_04089	chromosome 1	1914972	1915442	-	translation initiation factor IF-3
+FAADHO_04090	chromosome 1	1915546	1917453	-	threonine--tRNA ligase
+FAADHO_04092	chromosome 1	1917907	1920150	-	GTP pyrophosphokinase
+FAADHO_04093	chromosome 1	1920196	1920549	-	Endoribonuclease L-PSP superfamily
+FAADHO_04094	chromosome 1	1920622	1921527	-	Alpha/beta hydrolase
+FAADHO_04095	chromosome 1	1922039	1923229	+	Flavoprotein reductase
+FAADHO_04096	chromosome 1	1923261	1923692	+	DUF1641 domain-containing protein
+FAADHO_04097	chromosome 1	1923746	1924651	-	Transcriptional regulator, LysR family
+FAADHO_04098	chromosome 1	1924838	1925398	+	SnoaL-like polyketide cyclase family protein
+FAADHO_04099	chromosome 1	1925412	1926506	+	Polysaccharide deacetylase family protein
+FAADHO_04100	chromosome 1	1926554	1927276	+	SDR family oxidoreductase
+FAADHO_04101	chromosome 1	1927638	1928279	-	Succinyl-CoA:3-ketoacid-coenzyme A transferase subunit B
+FAADHO_04102	chromosome 1	1928281	1928985	-	3-oxoadipate CoA-succinyl transferase alpha subunit
+FAADHO_04103	chromosome 1	1929240	1929785	+	LuxR-family regulatory protein
+FAADHO_04104	chromosome 1	1930356	1931888	+	Glycoside hydrolase family 5 domain-containing protein
+FAADHO_04105	chromosome 1	1931950	1932381	-	Thioesterase
+FAADHO_04106	chromosome 1	1932435	1933214	-	SDR family oxidoreductase
+FAADHO_04107	chromosome 1	1933395	1935068	+	Electron transfer flavoprotein-ubiquinone oxidoreductase
+FAADHO_04108	chromosome 1	1935240	1936349	-	chorismate synthase
+FAADHO_04109	chromosome 1	1936719	1938653	-	Acyltransferase family protein
+FAADHO_04111	chromosome 1	1938775	1939239	-	CBS domain-containing protein
+FAADHO_04112	chromosome 1	1939402	1939722	+	DUF962 domain-containing protein
+FAADHO_04113	chromosome 1	1939889	1941202	-	UPF0761 membrane protein BURPS1710b_1862
+FAADHO_04114	chromosome 1	1941308	1941916	+	NAD(P)H:quinone oxidoreductase
+FAADHO_04115	chromosome 1	1941913	1942353	+	DUF2069 domain-containing protein
+FAADHO_04116	chromosome 1	1942387	1943808	+	Oxidoreductase, FAD-binding
+FAADHO_04117	chromosome 1	1943840	1944754	+	Ser/Thr protein phosphatase family protein
+FAADHO_04118	chromosome 1	1944803	1944976	-	hypothetical protein
+FAADHO_04119	chromosome 1	1945132	1946073	-	Bacterial regulatory helix-turn-helix, lysR family protein
+FAADHO_04120	chromosome 1	1946310	1947938	+	RND efflux system, outer membrane lipoprotein, NodT family protein
+FAADHO_04121	chromosome 1	1947953	1950154	+	Antibiotic resistance protein
+FAADHO_04122	chromosome 1	1950151	1950354	+	Protein AaeX
+FAADHO_04123	chromosome 1	1950368	1951249	+	Membrane fusion protein biotin-lipoyl like domain-containing protein
+FAADHO_04124	chromosome 1	1951480	1953156	-	Methyl-accepting transducer domain-containing protein
+FAADHO_04125	chromosome 1	1953502	1954764	+	Fosmidomycin resistance protein
+FAADHO_04126	chromosome 1	1954947	1955735	-	5'-methylthioadenosine/adenosylhomocysteine nucleosidase
+FAADHO_04127	chromosome 1	1955732	1958095	-	DNA 3'-5' helicase
+FAADHO_04128	chromosome 1	1958236	1961103	+	valine--tRNA ligase
+FAADHO_04129	chromosome 1	1961190	1962074	+	UTP--glucose-1-phosphate uridylyltransferase GalU
+FAADHO_04130	chromosome 1	1962151	1962756	-	DUF4136 domain-containing protein
+FAADHO_04131	chromosome 1	1962846	1965239	-	histidine kinase
+FAADHO_04132	chromosome 1	1965250	1966614	-	Exported protein
+FAADHO_04133	chromosome 1	1966611	1967339	-	DNA-binding response regulator
+FAADHO_04134	chromosome 1	1967606	1967992	-	ATP-dependent Zn protease
+FAADHO_04135	chromosome 1	1968251	1968481	-	UPF0033 domain-containing protein
+FAADHO_04136	chromosome 1	1968641	1969678	-	Inositol 2-dehydrogenase
+FAADHO_04137	chromosome 1	1969691	1970710	-	inositol 2-dehydrogenase
+FAADHO_04138	chromosome 1	1970703	1971584	-	putative transcriptional regulator of the myo-inositol catabolic operon
+FAADHO_04139	chromosome 1	1971830	1972879	+	Sugar ABC transport system, substrate-binding periplasmic protein
+FAADHO_04140	chromosome 1	1972980	1974125	+	Xylose transport system permease protein XylH
+FAADHO_04141	chromosome 1	1974138	1974938	+	Sugar ABC transporter, ATP-binding protein
+FAADHO_04142	chromosome 1	1974952	1976952	+	5-dehydro-2-deoxygluconokinase
+FAADHO_04143	chromosome 1	1976963	1978966	+	3D-(3,5/4)-trihydroxycyclohexane-1,2-dione acylhydrolase (decyclizing)
+FAADHO_04144	chromosome 1	1978963	1979883	+	myo-inosose-2 dehydratase
+FAADHO_04145	chromosome 1	1979883	1980686	+	5-deoxy-glucuronate isomerase
+FAADHO_04146	chromosome 1	1980751	1981455	-	Branched amino acid related transport system protein
+FAADHO_04147	chromosome 1	1981452	1983677	-	Branched-chain amino acid ABC transporter, permease/ATP binding protein, putative
+FAADHO_04148	chromosome 1	1983670	1984605	-	Branched amino acid transport system, membrane protein
+FAADHO_04149	chromosome 1	1984610	1985059	-	Thioesterase family protein
+FAADHO_04150	chromosome 1	1985283	1986431	-	Iron-containing alcohol dehydrogenase
+FAADHO_04151	chromosome 1	1986621	1986956	+	UPF0145 protein BTH_I2656
+FAADHO_04152	chromosome 1	1987049	1987603	-	Phosphatase
+FAADHO_04153	chromosome 1	1988066	1989574	-	putative protease signal peptide protein
+FAADHO_04154	chromosome 1	1990126	1991679	-	Major Facilitator Superfamily subfamily, putative
+FAADHO_04155	chromosome 1	1991764	1992729	+	LysR family transcriptional regulator
+FAADHO_04156	chromosome 1	1993168	1995792	-	alanine--tRNA ligase
+FAADHO_04157	chromosome 1	1996234	1997454	+	Lipid metabolism-related protein
+FAADHO_04158	chromosome 1	1997544	1998350	+	Lipoprotein
+FAADHO_04159	chromosome 1	1998881	1999123	-	Ornithine acetyltransferase
+FAADHO_04160	chromosome 1	1999371	2001080	+	glutamine--tRNA ligase/YqeY domain fusion protein
+FAADHO_04161	chromosome 1	2001375	2001851	-	NUDIX domain protein
+FAADHO_04162	chromosome 1	2001870	2002256	-	Surface antigen domain-containing protein
+FAADHO_04163	chromosome 1	2002543	2004591	-	beta-N-acetylhexosaminidase
+FAADHO_04164	chromosome 1	2004753	2005604	+	Peptidase M15C domain-containing protein
+FAADHO_04165	chromosome 1	2005650	2007038	-	Di-haem cytochrome c peroxidase family protein
+FAADHO_04166	chromosome 1	2007275	2008858	+	Acid phosphatase AcpA
+FAADHO_04167	chromosome 1	2009083	2010276	+	enoyl-ACP reductase FabV
+FAADHO_04168	chromosome 1	2010294	2011136	-	Trans-aconitate 2-methyltransferase
+FAADHO_04169	chromosome 1	2011834	2012466	-	Bacterial regulatory s, luxR family protein
+FAADHO_04170	chromosome 1	2012467	2014539	-	histidine kinase
+FAADHO_04171	chromosome 1	2014950	2015915	-	Spore coat protein U/FanG domain-containing protein
+FAADHO_04172	chromosome 1	2015931	2018363	-	Fimbrial usher family protein
+FAADHO_04173	chromosome 1	2018387	2019226	-	Fimbrial assembly chaperone, putative
+FAADHO_04174	chromosome 1	2019244	2019750	-	Spore coat protein U/FanG domain-containing protein
+FAADHO_04175	chromosome 1	2019851	2020411	-	Spore coat protein U/FanG domain-containing protein
+FAADHO_04176	chromosome 1	2020464	2021009	-	Spore coat protein U/FanG domain-containing protein
+FAADHO_04177	chromosome 1	2021812	2022705	-	LysR-family transcriptional regulator
+FAADHO_04178	chromosome 1	2023121	2024410	+	Major facilitator family transporter
+FAADHO_04179	chromosome 1	2024455	2025381	+	Hydrolase
+FAADHO_04180	chromosome 1	2025867	2026148	+	H-NS histone
+FAADHO_04181	chromosome 1	2027361	2028674	-	Nramp family divalent metal transporter
+FAADHO_04182	chromosome 1	2028973	2030544	-	IS66 family transposase
+FAADHO_04183	chromosome 1	2030574	2030921	-	IS66 family insertion sequence element accessory protein TnpB
+FAADHO_04184	chromosome 1	2030918	2031205	-	Transposase
+FAADHO_04185	chromosome 1	2031583	2032302	-	Lipoprotein
+FAADHO_04186	chromosome 1	2032295	2032567	-	Fis family regulatory domain protein
+FAADHO_04187	chromosome 1	2032713	2032952	+	hypothetical protein
+FAADHO_04188	chromosome 1	2033525	2034238	-	putative type VI secretion system effector
+FAADHO_04189	chromosome 1	2035160	2035879	-	Lipoprotein
+FAADHO_04190	chromosome 1	2035890	2038913	-	Toxin VasX N-terminal region domain-containing protein
+FAADHO_04191	chromosome 1	2038916	2039932	-	DUF4123 domain-containing protein
+FAADHO_04192	chromosome 1	2039936	2042764	-	Rhs element Vgr protein
+FAADHO_04193	chromosome 1	2043100	2043432	-	hypothetical protein
+FAADHO_04194	chromosome 1	2043915	2044406	-	Lipoprotein
+FAADHO_04195	chromosome 1	2044384	2047719	-	Rhs element Vgr protein
+FAADHO_04196	chromosome 1	2047828	2050230	-	T6SS Phospholipase effector Tle1-like catalytic domain-containing protein
+FAADHO_04197	chromosome 1	2050227	2050826	-	DUF3304 domain-containing protein
+FAADHO_04198	chromosome 1	2050823	2051500	-	DUF3304 domain-containing protein
+FAADHO_04199	chromosome 1	2051508	2053451	-	T6SS Phospholipase effector Tle1-like catalytic domain-containing protein
+FAADHO_04200	chromosome 1	2054509	2055066	-	DUF3304 domain-containing protein
+FAADHO_04201	chromosome 1	2055203	2056036	-	DUF4123 domain-containing protein
+FAADHO_04202	chromosome 1	2056039	2058837	-	Rhs element Vgr protein
+FAADHO_04203	chromosome 1	2059363	2059629	+	PAAR domain-containing protein
+FAADHO_04204	chromosome 1	2059653	2061080	+	3-oxoacyl-(Acyl carrier protein) synthase
+FAADHO_04205	chromosome 1	2061109	2062959	-	type VI secretion system baseplate subunit TssF
+FAADHO_04206	chromosome 1	2064050	2064226	-	Transposase
+FAADHO_04207	chromosome 1	2064452	2064670	+	Uncharacterized protein BTH_I2711-like
+FAADHO_04208	chromosome 1	2065432	2066910	+	Poly(3-hydroxybutyrate) depolymerase
+FAADHO_04209	chromosome 1	2067866	2069152	-	Major facilitator family transporter
+FAADHO_04210	chromosome 1	2069285	2070190	-	Transcriptional regulator, LysR family, putative
+FAADHO_04212	chromosome 1	2071384	2072673	+	Phage integrase
+FAADHO_04213	chromosome 1	2072948	2073418	-	putative acetyltransferase STY4148
+FAADHO_04214	chromosome 1	2073589	2075508	-	DNA 3'-5' helicase II
+FAADHO_04215	chromosome 1	2075505	2077859	-	Putative ATP-dependent endonuclease of OLD family
+FAADHO_04216	chromosome 1	2078284	2080020	-	POTRA domain-containing protein
+FAADHO_04217	chromosome 1	2080045	2080155	-	hypothetical protein
+FAADHO_04218	chromosome 1	2080297	2081109	-	contact-dependent inhibition immunity protein BcpI
+FAADHO_04219	chromosome 1	2081106	2090354	-	contact-dependent inhibition toxin BcpA
+FAADHO_04220	chromosome 1	2090964	2091704	+	Glycine zipper domain-containing protein
+FAADHO_04221	chromosome 1	2091808	2092776	+	DUF932 domain-containing protein
+FAADHO_04222	chromosome 1	2092773	2092973	+	Transposase
+FAADHO_04223	chromosome 1	2093043	2094038	+	YqaJ viral recombinase domain-containing protein
+FAADHO_04224	chromosome 1	2094050	2094265	+	hypothetical protein
+FAADHO_04225	chromosome 1	2094334	2095248	+	Phage capsid protein
+FAADHO_04226	chromosome 1	2095245	2096330	+	Twin-arginine translocation pathway signal protein
+FAADHO_04227	chromosome 1	2096386	2097195	+	DUF4942 domain-containing protein
+FAADHO_04228	chromosome 1	2097297	2097596	+	Plasmid related protein
+FAADHO_04229	chromosome 1	2097600	2097857	-	DNA-binding protein
+FAADHO_04230	chromosome 1	2097923	2098321	+	Cardiolipin synthase N-terminal domain-containing protein
+FAADHO_04231	chromosome 1	2098331	2099122	+	Class I SAM-dependent methyltransferase
+FAADHO_04232	chromosome 1	2099201	2099548	-	Helix-turn-helix domain protein, putative
+FAADHO_04233	chromosome 1	2099678	2100514	+	Lipoprotein, putative
+FAADHO_04234	chromosome 1	2100554	2102125	-	IS66 family transposase
+FAADHO_04235	chromosome 1	2102155	2102502	-	IS66 family insertion sequence element accessory protein TnpB
+FAADHO_04236	chromosome 1	2102499	2102786	-	Transposase
+FAADHO_04237	chromosome 1	2103266	2103901	-	Bacteriophage T5 Orf172 DNA-binding domain-containing protein
+FAADHO_04238	chromosome 1	2104034	2106016	-	DNA mismatch repair protein
+FAADHO_04239	chromosome 1	2106172	2109327	-	Type I restriction enzyme endonuclease subunit
+FAADHO_04240	chromosome 1	2109327	2110073	-	Abortive infection protein-like C-terminal domain-containing protein
+FAADHO_04241	chromosome 1	2110070	2111362	-	Type I restriction-modification system specificity determinant XF2741
+FAADHO_04242	chromosome 1	2111352	2112908	-	site-specific DNA-methyltransferase (adenine-specific)

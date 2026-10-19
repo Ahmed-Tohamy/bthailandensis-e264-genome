@@ -1,0 +1,5 @@
+Motif	Modified base	Genomic sites	Sites with a call, percent	Sites with a call where depth is 40 reads or more, percent	95 percent interval	Predicted methyltransferase	Restriction modification system	Positions recovered by the instrument caller, percent
+CACAG	6-methyladenine	4343	91.7	98.1	96.0 to 99.1	FAADHO_05464	Type III	100.0
+GTWWAC	6-methyladenine	630	96.5	95.5	87.6 to 98.5	FAADHO_01359	Type II orphan	98.9
+GAGHNNNCTC	6-methyladenine	904	94.9	97.9	89.1 to 99.6	FAADHO_04242	Type I	99.9
+GTGMCGG	4-methylcytosine	5582	41.3	59.8	53.5 to 65.8	FAADHO_01013	Type II orphan	not applicable, no 4-methylcytosine model

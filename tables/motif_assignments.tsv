@@ -1,0 +1,5 @@
+motif	base	predicted_locus	system	rebase_recseq	rebase_identity	basis
+CACAG	6mA	FAADHO_05464	Type III	CACAG	100	REBASE RecSeq match; Type III endonuclease FAADHO_05463 adjacent, also 100 percent
+GTWWAC	6mA	FAADHO_01359	Type II orphan	GTWWAC	100	REBASE RecSeq match; between trpA and trpB on chromosome II, the published Burkholderia arrangement
+GAGHNNNCTC	6mA	FAADHO_04242	Type I	GAGNNNNCTC	100	REBASE RecSeq match with one spacer position resolved; HsdS FAADHO_04241 and HsdR FAADHO_04239 both 100 percent
+GTGMCGG	4mC	FAADHO_01013	Type II orphan	none	100	only cytosine-N4 MTase in the genome; REBASE records the enzyme as 4mC but has no recognition sequence for it

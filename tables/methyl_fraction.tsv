@@ -1,0 +1,5 @@
+motif	system	sites_with_frac	median_frac	mean_frac	p25	p75	pct_above_0.8
+CACAG	Type III RM	3975	0.896	0.866	0.773	1.000	69.4
+GTWWAC	Type II core	504	0.867	0.843	0.732	0.983	63.9
+GAGHNNNCTC	Type I RM	1273	0.795	0.793	0.691	0.909	48.4
+GTGMCGG	ORPHAN 4mC	2302	1.000	0.940	0.907	1.000	90.1

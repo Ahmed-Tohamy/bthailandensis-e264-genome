@@ -1,0 +1,8 @@
+name: smrt_env
+channels:
+  - hcc
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - smrtlink-tools=10.1.0.119588

@@ -1,0 +1,27 @@
+measurement	value
+region	chromosome 1 1,905,085 to 2,113,703
+length_bp	208619
+protein_coding_genes	161
+depth_inside	46.47x
+depth_flanking_left	23.97x
+depth_flanking_right	26.79x
+copy_number_raw	1.83
+reads_crossing_tandem_junction	18
+reads_continuing_downstream	31
+longest_junction_alignment_bp	11731
+assembly_representation	one copy
+direct_repeat_bp	1337 (one mismatch, perfect for the first 103 bp)
+direct_repeat_identity	99.93
+repeat_left_start	1905085
+repeat_right_start	2113704
+mechanism	recombination between flanking direct repeats
+repeat_identity_element	ISButh2, IS3 family insertion sequence
+repeat_genes_left	FAADHO_04079 ORF B, FAADHO_04080 ORF A
+repeat_genes_right	FAADHO_04243 ORF B, FAADHO_04244 ORF A
+depth_ratio_range_inside	0.98 to 2.52 over 10 kb windows
+copy_number_gc_corrected	1.64
+gc_inside_pct	64.86
+gc_outside_pct	67.57
+junctions_detected	1 (single amplicon)
+depth_cv_inside_pct	22.6
+depth_cv_controls_pct	19.6 (mean of four single-copy regions)

@@ -1,0 +1,5 @@
+motif	base	palindromic	genomic_sites	methylatable_bases	calls	sites_with_call	pct_sites	sites_both_strands	pct_sites_deep	n_deep	ci_low	ci_high	old_pct_calls
+CACAG	m6A	False	4343	4343	3984	3984	91.7	0	98.1	323	96.0	99.1	91.7
+GTWWAC	m6A	True	630	1260	1018	608	96.5	410	95.5	67	87.6	98.5	80.0
+GAGHNNNCTC	m6A	False	904	1576	1274	858	94.9	416	97.9	48	89.1	99.6	80.8
+GTGMCGG	m4C	False	5582	5582	2308	2308	41.3	0	59.8	239	53.5	65.8	41.3
