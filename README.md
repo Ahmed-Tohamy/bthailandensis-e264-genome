@@ -1,7 +1,9 @@
 # Burkholderia thailandensis E264 genome and methylome
 
 Analysis code for the closed genome and base modification profile of
-*B. thailandensis* E264 described in [citation once accepted].
+*B. thailandensis* E264.
+
+Ahmed Al-Tohamy and Anne Grove, Louisiana State University.
 
 The scripts are written to be read as much as run. Each covers one
 section of the Methods, in the same order, and explains the decisions
@@ -9,13 +11,16 @@ that are not obvious from the commands.
 
 ## Data
 
-Sequencing reads are in the SRA under accession PENDING, as two
+Sequencing reads are in the SRA under accession SRXXXXXXX, as two
 unaligned BAM files, one per SMRT Cell. The format matters: the
 per-base polymerase kinetics that modification calling depends on are
 stored as tags that do not survive conversion to FASTQ.
 
-The assembly is in GenBank under accession PENDING, and the per-site
-modification calls under [Zenodo DOI PENDING].
+The assembly is in GenBank under accession CPXXXXXX (chromosome 1) and
+CPXXXXXX (chromosome 2). The per-site modification calls are archived at
+Zenodo, DOI 10.5281/zenodo.XXXXXXX.
+
+Accessions are filled in on acceptance.
 
 Published result tables are in `tables/`, so a rerun can be checked
 without downloading anything from the journal.
@@ -142,7 +147,8 @@ original BTH tags the literature uses; the result is
 
 ## Citation
 
-[Full citation once accepted.]
+Al-Tohamy A, Grove A. PacBio HiFi genome assembly and methylome of the
+Burkholderia thailandensis type strain E264. *Scientific Data* (in review).
 
 ## Contact
 
