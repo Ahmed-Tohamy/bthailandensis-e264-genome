@@ -1,4 +1,4 @@
-ref_accession	ref_pos	ref_base	our_base	our_contig	our_pos	supported_by_2014
+ref_accession	ref_pos	ref_base	our_base	our_replicon	our_pos	supported_by_2014
 CP000085.1	496126	.	C	chromosome 2	2000103	no
 CP000085.1	674998	G	.	chromosome 2	1821231	no
 CP000085.1	1257240	G	A	chromosome 2	1238983	no

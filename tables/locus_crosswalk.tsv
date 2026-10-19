@@ -1,5 +1,4 @@
 our_locus	role	E264_locus_tag	RefSeq_locus_tag	protein_accession	replicon	percent_identity	query_coverage	note
-FAADHO_00256	methyltransferase fragment	BTH_II1068	BTH_RS05485	WP_009896543.1	chromosome 2	78.5	100	partial match, do not cite this tag; shares a reference protein with another query
 FAADHO_00976	methyltransferase, prophage associated	BTH_II1068	BTH_RS05485	WP_009896543.1	chromosome 2	100.0	100	shares a reference protein with another query
 FAADHO_01013	methyltransferase, GTGMCGG, cytosine-N4	BTH_II1029	BTH_RS05320	WP_009896486.1	chromosome 2	100.0	100	
 FAADHO_01359	methyltransferase, GTWWAC, Type II orphan	BTH_II0680	BTH_RS03545	WP_009895852.1	chromosome 2	100.0	100	
