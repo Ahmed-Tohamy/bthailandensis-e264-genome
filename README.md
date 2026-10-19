@@ -5,10 +5,6 @@ Analysis code for the closed genome and base modification profile of
 
 Ahmed Al-Tohamy and Anne Grove, Louisiana State University.
 
-The scripts are written to be read as much as run. Each covers one
-section of the Methods, in the same order, and explains the decisions
-that are not obvious from the commands.
-
 ## Data
 
 Sequencing reads are in the SRA under accession SRXXXXXXX, as two
@@ -19,8 +15,6 @@ stored as tags that do not survive conversion to FASTQ.
 The assembly is in GenBank under accession CPXXXXXX (chromosome 1) and
 CPXXXXXX (chromosome 2). The per-site modification calls are archived at
 Zenodo, DOI 10.5281/zenodo.XXXXXXX.
-
-Accessions are filled in on acceptance.
 
 Published result tables are in `tables/`, so a rerun can be checked
 without downloading anything from the journal.
@@ -84,14 +78,18 @@ Conda environment files are in `environment/`:
 conda env create -f environment/flye_env.yml
 ```
 
-Two things conda cannot provide. **SMRT Link 10.1.0.119588** comes
-from PacBio; its environment file records only the wrapper package,
-not the tools inside. Scripts 04 and 05 need `ipdSummary`,
-`motifMaker`, `pbmm2` and `ccs-kinetics-bystrandify` from that
-install. **The Bakta database, version 6.0** (DOI
-10.5281/zenodo.14916843) is about 70 GB and downloads separately; the
-insertion sequence assignments in the paper come from its ISFinder
-component, so the version matters.
+Two things are not on conda and have to be fetched by hand.
+
+SMRT Link 10.1.0.119588 comes from PacBio. The yml file for it is
+nearly empty, since conda only installed a wrapper and the tools
+themselves live inside the tarball. Scripts 04 and 05 call
+`ipdSummary`, `motifMaker`, `pbmm2` and `ccs-kinetics-bystrandify`,
+all of which come from there.
+
+The Bakta database v6.0 is a 70 GB download (DOI
+10.5281/zenodo.14916843). Use that version rather than a newer one if
+you want the same annotation, since the ISButh2 calls come from the
+ISFinder release bundled with it.
 
 ## Verification
 
