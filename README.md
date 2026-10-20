@@ -7,7 +7,7 @@ Ahmed Al-Tohamy and Anne Grove, Louisiana State University.
 
 ## Data
 
-Sequencing reads are in the SRA under accession SRXXXXXXX, as two
+Sequencing reads are in the SRA under BioProject PRJNA1546460, as two
 unaligned BAM files, one per SMRT Cell. The format matters: the
 per-base polymerase kinetics that modification calling depends on are
 stored as tags that do not survive conversion to FASTQ.
