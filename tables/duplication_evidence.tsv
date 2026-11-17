@@ -21,7 +21,7 @@ repeat_genes_right	FAADHO_04243 ORF B, FAADHO_04244 ORF A
 depth_ratio_range_inside	0.98 to 2.52 over 10 kb windows
 copy_number_gc_corrected	1.64
 gc_inside_pct	64.86
-gc_outside_pct	67.57
+gc_rest_of_chromosome_1_pct	67.42
 junctions_detected	1 (single amplicon)
 depth_cv_inside_pct	22.6
 depth_cv_controls_pct	19.6 (mean of four single-copy regions)

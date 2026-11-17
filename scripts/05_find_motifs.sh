@@ -31,7 +31,7 @@ awk '!/^#/ && $3=="m4C"' "$WORK/basemods.gff" | sort -k6,6nr | head -1000 |
 awk '!/^#/ && $3=="m6A" && $6>=30' "$WORK/basemods.gff" |
   grep -o 'context=[ACGT]*' | cut -d= -f2 |
   awk '{cacag=substr($0,19,4); gtwwac=substr($0,17,6); typeI=substr($0,20,10);
-        if (cacag!="ACAG" && gtwwac !~ /^GT[AT][AT]AC$/ && typeI !~ /^GAG.{3}CTC$/)
+        if (cacag!="ACAG" && gtwwac !~ /^GT[AT][AT]AC$/ && typeI !~ /^GAG.{4}CTC$/)
           print ">unassigned"NR"\n"$0}' > "$WORK/meme/unassigned_6mA.fa"
 
 conda activate meme_env

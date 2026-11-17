@@ -5,10 +5,10 @@ out_all	top 1000 6mA calls by modification quality	3	CGTAAACS	8	146	2.7e-065	GTW
 out_all	top 1000 6mA calls by modification quality	4	TGACCGGCAAAAAT	14	5	9.1e-003	not significant, 5 sites
 out_all	top 1000 6mA calls by modification quality	5	TGGTGTTAGTCAAA	14	4	1.6e+000	not significant
 out_all	top 1000 6mA calls by modification quality	6	GCGAGTAGCGGGGA	14	5	2.1e+002	not significant
-out_un	1,114 6mA calls at quality 30 or above matching no known motif	1	SNCGAGCVSGCTCG	14	1087	5.3e-2213	GC-rich subset of GAGHNNNCTC
-out_un	1,114 6mA calls at quality 30 or above matching no known motif	2	TCCCGCTTTGC	11	7	1.9e+002	not significant
-out_un	1,114 6mA calls at quality 30 or above matching no known motif	3	TTGCCGAGTTCCTT	14	4	3.5e+002	not significant
-out_un	1,114 6mA calls at quality 30 or above matching no known motif	4	ATTATTTCTTT	11	2	2.4e+004	not significant
+out_un	27 6mA calls at quality 30 or above matching none of the three 6mA motifs	1	GWKCACGAYGHRCG	14	12	2.2e-002	12 of 27 sequences; no MotifMaker counterpart; not treated as a motif
+out_un	27 6mA calls at quality 30 or above matching none of the three 6mA motifs	2	AATSCGAHGAARA	13	4	1.7e+003	not significant
+out_un	27 6mA calls at quality 30 or above matching none of the three 6mA motifs	3	AAAT	4	2	5.0e+003	not significant
+out_un	27 6mA calls at quality 30 or above matching none of the three 6mA motifs	4	ATCWA	5	2	1.2e+004	not significant
 out_4mC	top 1000 4mC calls by modification quality	1	NBSBCCGKCACG	12	649	1.0e-857	GTGMCGG, reverse complement
 out_4mC	top 1000 4mC calls by modification quality	2	CTGCTCGGCGA	11	28	1.2e+001	not significant
 out_4mC	top 1000 4mC calls by modification quality	3	GTTGTAGAAGAA	12	3	4.7e+003	not significant

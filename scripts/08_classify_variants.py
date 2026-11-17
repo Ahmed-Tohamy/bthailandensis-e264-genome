@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Decide which base differences are real and which are reference errors.
+"""Classify base differences against the published assemblies.
 
 A difference between one genome and one reference cannot distinguish a
 true variant from an error in that reference. Calling against two

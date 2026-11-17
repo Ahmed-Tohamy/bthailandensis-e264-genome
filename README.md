@@ -7,14 +7,15 @@ Ahmed Al-Tohamy and Anne Grove, Louisiana State University.
 
 ## Data
 
-Sequencing reads are in the SRA under BioProject PRJNA1546460, as two
-unaligned BAM files, one per SMRT Cell. The format matters: the
+Sequencing reads are in the SRA under BioProject PRJNA1546460, as three
+unaligned BAM files, one per SMRT Cell. The third cell is a technical
+replicate and is not part of the reported dataset. The format matters: the
 per-base polymerase kinetics that modification calling depends on are
 stored as tags that do not survive conversion to FASTQ.
 
-The assembly is in GenBank under accession CPXXXXXX (chromosome 1) and
-CPXXXXXX (chromosome 2). The per-site modification calls are archived at
-Zenodo, DOI 10.5281/zenodo.XXXXXXX.
+The assembly is in GenBank under accession JCFUZX000000000. The per-site
+modification calls and the analysis workbooks are archived at Zenodo,
+DOI 10.5281/zenodo.23486364.
 
 Published result tables are in `tables/`, so a rerun can be checked
 without downloading anything from the journal.
@@ -141,12 +142,14 @@ coordinates and carry different locus tags. Everything in the paper
 uses the unreoriented frame. Script 11 builds the crosswalk between
 our locus tags, the RefSeq tags of the 2005 reference, and the
 original BTH tags the literature uses; the result is
-`tables/locus_crosswalk.tsv`.
+`tables/locus_crosswalk.tsv`. The match between the two annotations of
+the same genome, as assembled and after reorientation, is in
+`tables/annotation_frame_crosswalk.tsv`.
 
 ## Citation
 
-Al-Tohamy A, Grove A. PacBio HiFi genome assembly and methylome of the
-Burkholderia thailandensis type strain E264. *Scientific Data* (in review).
+Al-Tohamy A, Grove A. PacBio HiFi genome assembly and methylome of
+Burkholderia thailandensis E264. *Scientific Data* (submitted).
 
 ## Contact
 
