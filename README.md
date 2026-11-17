@@ -15,7 +15,7 @@ stored as tags that do not survive conversion to FASTQ.
 
 The assembly is in GenBank under accession JCFUZX000000000. The per-site
 modification calls and the analysis workbooks are archived at Zenodo,
-DOI 10.5281/zenodo.23486364.
+DOI 10.5281/zenodo.24302704.
 
 Published result tables are in `tables/`, so a rerun can be checked
 without downloading anything from the journal.
